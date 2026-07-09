@@ -3,6 +3,10 @@ Userscript script (Greasemonkey, Tampermonkey, ViolentMonkey, ScriptCat) to fix 
 
 ***TLDR: Japanese never uses accent marks & neither should English translations.***
 
+# Contributions
+
+If there are other websites which would benefit from being added to match list, please suggest them!
+
 # Full Details
 
 Google Translate and Wikipedia IS LARGELY to blame for this. They put accent marks into English, but English DOES NOT USE ACCENT MARKS.
