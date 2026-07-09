@@ -1,5 +1,4 @@
-
-Userscript script (Greasemonkey, Tampermonkey, ViolentMonkey, ScriptCat) to fix display of Japanese language in English characters.
+Userscript script (Greasemonkey, Tampermonkey, ViolentMonkey, ScriptCat) to correct the display of Japanese language in English characters.
 
 ***TLDR: Japanese never uses accent marks &amp; neither should English translations.***
 
