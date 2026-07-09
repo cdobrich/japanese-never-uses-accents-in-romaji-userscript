@@ -3,6 +3,10 @@ Userscript script (Greasemonkey, Tampermonkey, ViolentMonkey, ScriptCat) to fix 
 
 ***TLDR: Japanese never uses accent marks &amp; neither should English translations.***
 
+This removes an incorrect barrier to understanding and reading Japanese as an English speaker.
+
+Keywords: Japanese language, Japanese language tools, accents, learning japanese,
+
 # Contributions
 
 If there are other websites which would benefit from being added to match list, please suggest them!
@@ -15,7 +19,7 @@ This would be like asking Google Translate to translate Spanish into English, an
 
 In English (American, British, Canadian, Australian, New Zealand), ***the overwhelmingly vast amount of English (99.9997%) is written*** without accent marks.
 - Japanese DOES NOT use accent marks for their words.
-  - It is WRONG and INCORRECT to use accent marks when writing Japanese in English-characters, under ALL CIRCUMSTANCES!
+  - It is ***WRONG*** and ***INCORRECT*** to use accent marks when writing Japanese in English-characters, under ALL CIRCUMSTANCES!
   - It is incorrect because English speakers do not read this way.
   - It is incorrect because natural (and even artificial) English is not written using accent marks.
   - It is incorrect because THE JAPANESE do not write this way.
@@ -24,4 +28,4 @@ In English (American, British, Canadian, Australian, New Zealand), ***the overwh
 
 You should NOT write a name like Yōsuke. It is Yousuke. It is not Chikyū! It is written as Chikyuu. This is how it has been written in Japanese for over a thousand years, and it will not change.
 
-If you show this bastard asinine ‘writing’ to either English or Japanese speakers, it is UNREADABLE TO BOTH. It is only abject failure, and nothing else.
+If you show this asinine ‘writing’ to either English or Japanese speakers, it is ***UNREADABLE TO BOTH***. It is only abject failure, and nothing else.
