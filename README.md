@@ -27,4 +27,4 @@ In English (American, British, Canadian, Australian, New Zealand), ***the overwh
 
 You should NOT write a name like Yōsuke. It is Yousuke. It is not Chikyū! It is written as Chikyuu. This is how it has been written in Japanese for over a thousand years, and it will not change.
 
-If you show this asinine ‘writing’ to either English or Japanese speakers, it is ***UNREADABLE TO BOTH***. It is only abject failure, and nothing else.
+If you were to show this asinine ‘writing’ to either English or Japanese speakers, it is ***UNREADABLE TO BOTH***. It is only abject failure, and nothing else.
