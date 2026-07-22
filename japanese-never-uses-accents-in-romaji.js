@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Correct Japanese Romanization (Macrons to Vowels)
 // @namespace    https://github.com/cdobrich/japanese-never-uses-accents-in-romaji-userscript
-// @version      1.0
+// @version      1.1
 // @description  Converts Hepburn romaji macrons (ā, ī, ū, ē, ō) into true vowel combinations (aa, ii, uu, ei, ou) on Google Translate.
 // @author       Clifton Dobrich
-// @match        https://translate.google.com/?sl=en&tl=ja*
+// @match        https://translate.google.com/?sl=*&tl=ja*
+// @match        https://translate.google.com/?sl=ja&tl=*
 // @match        https://en.wikipedia.org/wiki/*
+// @match        https://search.brave.com/search*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
